@@ -1,24 +1,27 @@
 <div align="center">
 
-```
-██╗   ██╗██╗ ██████╗ ███╗   ██╗███████╗███████╗██╗  ██╗
-██║   ██║██║██╔════╝ ████╗  ██║██╔════╝██╔════╝██║  ██║
-██║   ██║██║██║  ███╗██╔██╗ ██║█████╗  ███████╗███████║
-╚██╗ ██╔╝██║██║   ██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║
- ╚████╔╝ ██║╚██████╔╝██║ ╚████║███████╗███████║██║  ██║
-  ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+```text
+ _    ___                       __                                      ______
+| |  / (_)___ _____  ___  _____/ /_ _      ______ __________ _____     / ____/
+| | / / / __ `/ __ \/ _ \/ ___/ __ \ | /| / / __ `/ ___/ __ `/ __ \   / /     
+| |/ / / /_/ / / / /  __(__  ) / / / |/ |/ / /_/ / /  / /_/ / / / /  / /___   
+|___/_/\__, /_/ /_/\___/____/_/ /_/|__/|__/\__,_/_/   \__,_/_/ /_/   \____/   
+      /____/                                                                  
 ```
 
 ### `> Full Stack Developer` · `> AI Builder` · `> Mobile Dev`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+Real-World+Apps+with+AI;Flutter+%7C+React+%7C+Python+%7C+Firebase;Hackathon+Winner+%F0%9F%8F†;CSE+Student+%40+St.+Joseph's+College)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Apps+with+AI;Flutter+%7C+React+%7C+Python+%7C+Firebase;Hackathon+Winner+%F0%9F%8F†;CSE+Student+%40+St.+Joseph's+%7C+BS+Data+Science+%40+IIT+Madras)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwaran484)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwaran-c484/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codeigniter&logoColor=white)](https://vigneshwaran-c-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vigneshwaran484)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2LxUJjEaT5/)
+[![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/vigneshwaran484)
+[![SkillRack](https://img.shields.io/badge/SkillRack-2C3E50?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=506125&key=894e27d0773b7abdf6759f1cf5588fc459c733bb)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vigneshwaran484)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvickey484@gmail.com)
 
 </div>
@@ -92,7 +95,7 @@ class Vigneshwaran:
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 Police App — Emergency Platform
+### 🚨 [Police App — Emergency Platform](https://github.com/vigneshwaran484/police-akka-copy)
 **Flutter · Firebase · Gemini API · Geolocator**
 
 Dual-platform safety system (citizen app + police dashboard) with real-time Firebase streams, SOS alerts with live location tracking, AI-powered legal guidance via GroqAPI, and role-based access control.
@@ -102,7 +105,7 @@ Dual-platform safety system (citizen app + police dashboard) with real-time Fire
 </td>
 <td width="50%" valign="top">
 
-### 💊 PillMatrix — Healthcare Workflow
+### 💊 [PillMatrix — Healthcare Workflow](https://github.com/vigneshwaran484/PillMatrix)
 **Firebase · Gemini API · OCR**
 
 Role-based healthcare platform connecting doctors, patients, labs & pharmacies. Features a Gemini-powered medical chatbot, QR-based patient access, and OCR prescription scanning prototype.
@@ -114,7 +117,7 @@ Role-based healthcare platform connecting doctors, patients, labs & pharmacies. 
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Deepfake Defender — AI Detection
+### 🛡️ [Deepfake Defender — AI Detection](https://github.com/vigneshwaran484/Deepfake-Home)
 **Python · Machine Learning · Firebase**
 
 ML-based deepfake detection for text, images, videos & URLs. Provides confidence scores, risk indicators, and explainable AI outputs via a web interface.
@@ -122,7 +125,7 @@ ML-based deepfake detection for text, images, videos & URLs. Provides confidence
 </td>
 <td width="50%" valign="top">
 
-### 💬 Real-Time Chat App
+### 💬 [Real-Time Chat App](https://realtimechat147.netlify.app/)
 **Client-Server · Render · Netlify**
 
 Multi-user real-time chat application with hosted backend (Render) + frontend (Netlify) deployment pipeline and concurrent user support.
