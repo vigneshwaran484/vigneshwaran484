@@ -158,8 +158,8 @@ $ cat achievements.log
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwaran484&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran484&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwaran484&show_icons=true&theme=tokyonight&hide_border=true&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran484&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1)
 
 <br/>
 
@@ -167,7 +167,7 @@ $ cat achievements.log
 
 <br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaran484&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaran484&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true)
 
 <br/>
 
