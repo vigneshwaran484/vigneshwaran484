@@ -158,12 +158,16 @@ $ cat achievements.log
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vigneshwaran484&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran484&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwaran484&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran484&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vigneshwaran484&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaran484&theme=tokyonight&hide_border=true)
 
 <br/>
 
@@ -225,8 +229,8 @@ $ cat achievements.log
 
 <div align="center">
 
-### `> open_to_work = True`
-### `> preferred_roles = ["Full Stack Developer", "Mobile Developer", "AI/ML Engineer"]`
+### 🚀 **Ready for New Opportunities!**
+### **Preferred Roles**: Full Stack Developer · Mobile Developer · AI/ML Engineer
 
 <br/>
 
