@@ -162,6 +162,10 @@ $ cat achievements.log
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vigneshwaran484&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vigneshwaran484&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
