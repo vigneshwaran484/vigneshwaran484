@@ -9,9 +9,9 @@
       /____/                                                                  
 ```
 
-### `> Full Stack Developer` · `> AI Builder` · `> Mobile Dev`
+### `> Full Stack + AI Developer` · `> Flutter Mobile Dev` · `> Research (IEEE)`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Apps+with+AI;Flutter+%7C+React+%7C+Python+%7C+Firebase;Hackathon+Winner+%F0%9F%8F†;CSE+Student+%40+St.+Joseph's+%7C+BS+Data+Science+%40+IIT+Madras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Apps+with+AI;Full-Stack+%2B+AI+Integration+%7C+Flutter+%7C+FastAPI;Currently%3A+NeuroMotion+AI+%E2%80%94+IEEE-bound+research;CSE+Student+%40+St.+Joseph's+%7C+BS+Data+Science+%40+IIT+Madras)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,13 +35,14 @@ class Vigneshwaran:
     name       = "Vigneshwaran C"
     college    = "St. Joseph's College of Engineering, Chennai (BE CSE, CGPA: 8.18)"
     also_at    = "IIT Madras – BS Data Science & Applications"
-    role       = "Full Stack + Mobile Developer | AI Enthusiast"
-    internship = "Application Development Intern @ ATRIBS Global Technology Solutions"
-    passion    = ["Building AI-powered apps", "Real-time systems", "Hackathons"]
-    currently  = "Open to internships & entry-level roles 🚀"
+    role       = "Full Stack + AI Developer | Flutter Mobile Dev"
+    experience = "2x Intern @ ATRIBS Global Tech Solutions | Data Automation @ Toeddro Adventures"
+    research   = "NeuroMotion AI — camera-angle-invariant biomechanics, targeting IEEE conference"
+    passion    = ["AI-integrated full-stack systems", "Computer vision", "Hackathons"]
+    currently  = "Open to SWE internships 🚀"
 ```
 
-> Computer Science student with hands-on experience designing **real-time, multi-role systems** using cloud backends and modern frameworks. Hackathon winner. Industry intern. AI builder.
+> Computer Science student building **AI-integrated full-stack systems** — from real-time biomechanical analysis to enterprise SaaS. Hackathon winner. Multi-time industry intern. Researcher.
 
 ---
 
@@ -55,35 +56,32 @@ class Vigneshwaran:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend & Databases**
+**Backend & AI**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Databases & Deployment**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI & Tools**
-
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 </div>
 
@@ -95,10 +93,32 @@ class Vigneshwaran:
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 [Police App — Emergency Platform](https://github.com/vigneshwaran484/police-akka-copy)
+### 🏀 [NeuroMotion AI — Basketball Form Analyzer](https://github.com/vigneshwaran484/Neuromotion-AI)
+**MediaPipe · OpenCV · DTW · FastAPI · Flutter**
+
+Camera-angle-invariant basketball free-throw form analyzer. Combines pose estimation, joint-angle biomechanics, and DTW alignment against an ideal motion template to generate real-time corrections. Core novelty is a calibration layer that stays accurate regardless of recording angle. Selected as mini→major project; being scoped into an IEEE-indexed conference paper.
+
+> 🎓 Academic research project, Sem V–VII
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Deepfake Defender — AI Detection](https://github.com/vigneshwaran484/Deepfake-Home)
+**Python · Machine Learning · Firebase**
+
+ML-based deepfake detection for text, images, videos & URLs. Provides confidence scores, risk indicators, and explainable AI outputs via a web interface.
+
+> 🏆 Built at Vexora'26 Hackathon (ACM Sathyabama)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 [Police Akka — Emergency Platform](https://github.com/vigneshwaran484/police-akka-copy)
 **Flutter · Firebase · Gemini API · Geolocator**
 
-Dual-platform safety system (citizen app + police dashboard) with real-time Firebase streams, SOS alerts with live location tracking, AI-powered legal guidance via GroqAPI, and role-based access control.
+Dual-platform safety system (citizen app + police dashboard) with real-time Firebase streams, SOS alerts with live location tracking, and AI-powered legal guidance.
 
 > 🏆 Built during internship @ ATRIBS Global Tech
 
@@ -108,7 +128,7 @@ Dual-platform safety system (citizen app + police dashboard) with real-time Fire
 ### 💊 [PillMatrix — Healthcare Workflow](https://github.com/vigneshwaran484/PillMatrix)
 **Firebase · Gemini API · OCR**
 
-Role-based healthcare platform connecting doctors, patients, labs & pharmacies. Features a Gemini-powered medical chatbot, QR-based patient access, and OCR prescription scanning prototype.
+Role-based healthcare platform connecting doctors, patients, labs & pharmacies. Gemini-powered medical chatbot, QR-based patient access, OCR prescription scanning.
 
 > 🏆 Prompt-a-thon (VIT × Google Gemini)
 
@@ -117,18 +137,22 @@ Role-based healthcare platform connecting doctors, patients, labs & pharmacies. 
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Deepfake Defender — AI Detection](https://github.com/vigneshwaran484/Deepfake-Home)
-**Python · Machine Learning · Firebase**
+### 💬 [Real-Time Chat App](https://realtimechat147.netlify.app/)
+**Client-Server · Render · Netlify**
 
-ML-based deepfake detection for text, images, videos & URLs. Provides confidence scores, risk indicators, and explainable AI outputs via a web interface.
+Multi-user real-time chat application with hosted backend + frontend deployment pipeline and concurrent user support.
+
+> 🌐 Live deployment
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Real-Time Chat App](https://realtimechat147.netlify.app/)
-**Client-Server · Render · Netlify**
+### 📄 [DocuMind — Document Intelligence](https://github.com/vigneshwaran484/DocuMind)
+**Python · NLP · Web**
 
-Multi-user real-time chat application with hosted backend (Render) + frontend (Netlify) deployment pipeline and concurrent user support.
+Document analysis tool for querying and extracting insights from uploaded files, with a clean web interface for interacting with document content.
+
+> 🔗 [Live demo](https://documind-production-6c3b.up.railway.app/) · 📌 Pinned repo
 
 </td>
 </tr>
@@ -140,16 +164,21 @@ Multi-user real-time chat application with hosted backend (Render) + frontend (N
 
 ```bash
 $ cat achievements.log
+"
+[LEADER]        Organized College Orientation & Technical Symposium
+[🥇 WINNER]     REC TITANIUM 2026 — Smart City Debug War Room
+[FINALIST]      Startup TN Tourism Hackathon
+[🥉 3rd]        Spark Sync — St. Joseph's College of Engineering
+[🥉 3rd]        Robotics Club Competition
+[🥉 3rd]        Software Hackathon Club
+[4th]           Codeathon — CIT College
+[NATIONAL]      Srinivasa Ramanujan Mathematical Competition
+[PARTICIPANT]   Hack to the Future — SRM / Easwari Engineering College
+[PARTICIPANT]   Prompt-a-thon — VIT × Google Gemini
+[PARTICIPANT]   Vexora'26 — Sathyabama (ACM)
+[PARTICIPANT]   TechnoVerse — St. Joseph's College
 
-[🥇 WINNER]   REC TITANIUM 2026 — Smart City Debug War Room
-[🥉 3rd]      Spark Sync — St. Joseph's College of Engineering
-[🥉 3rd]      Robotics Club Competition
-[🥉 3rd]      Software Hackathon Club
-[4th]         Codeathon — CIT College
-[FINALIST]    Hack to the Future — SRM / Easwari Engineering College
-[FINALIST]    Prompt-a-thon — VIT × Google Gemini
-[NATIONAL]    Srinivasa Ramanujan Mathematical Competition
-[LEADER]      Organized College Orientation & Technical Symposium
+# ...and several more hackathons/events along the way"
 ```
 
 ---
@@ -181,16 +210,15 @@ $ cat achievements.log
 
 | Certificate | Issuer |
 |---|---|
-| DSA using Java | Infosys Springboard |
-| Python Advanced | HackerRank |
-| Cloud Computing | NPTEL |
-| MongoDB Basics | MongoDB |
-| JavaScript | Infosys Springboard |
-| Introduction to IoT & Digital Transformation | Cisco |
-| Generative AI in Azure Database for PostgreSQL | Microsoft |
+| Cloud Computing (Elite) | NPTEL |
+| Python for Data Science (Elite) | NPTEL |
+| MLOps for Generative AI | Google Cloud |
+| Engineer AI Agents with ADK | Google Cloud |
 | Relational to Document Model | MongoDB |
-| Introduction to Cyber Security | Cisco |
-| Introduction to Modern AI | Cisco |
+| DSA using Java | Infosys Springboard |
+| Generative AI in Azure Database for PostgreSQL | Microsoft |
+
+> *37+ additional certifications on [SkillRack](https://www.skillrack.com/faces/resume.xhtml?id=506125&key=894e27d0773b7abdf6759f1cf5588fc459c733bb) and [Credly](https://www.credly.com/users/vigneshwaran484)*
 
 ---
 
@@ -203,7 +231,7 @@ $ cat achievements.log
 
 📊  BS Data Science and Applications
     IIT Madras, Adayar
-    CGPA: 6.8   |  2024 – Present
+    2024 – Present
 
 🏫  Class XII — 92.2%
     Devi Academy Senior Secondary School, Chennai  |  2023 – 2024
@@ -221,16 +249,24 @@ $ cat achievements.log
     ► Led "Police Akka" dual-platform safety system development
     ► Industry 4.0: software-hardware integration & automation
     ► Industrial visits: IIT Madras Research Park (ICCW)
-    ► Delivered technical presentations to industry mentors
     ► Selected for a SECOND internship based on performance
+
+💼  Data Automation Intern
+    Toeddro Adventures
+
+    ► Built multi-source web scraping pipelines (events, tourism data)
+    ► Delivered structured CSV/Excel datasets from mixed sources
+
+💼  AI Intern
+    CodeAlpha (Online)  |  Jun–Jul 2026
 ```
 
 ---
 
 <div align="center">
 
-### 🚀 **Ready for New Opportunities!**
-### **Preferred Roles**: Full Stack Developer · Mobile Developer · AI/ML Engineer
+### 🚀 **Open to Software Engineering Internships**
+### **Preferred Roles**: Full Stack Developer · AI/ML Engineer · Flutter Developer
 
 <br/>
 
