@@ -173,9 +173,12 @@ ML-based detection for text, images, videos and URLs, with confidence scores and
 ## `security_and_open_source[]`
 
 ```bash
-$ cat contributions.log
+$ cat contributions.log   # Open Source Connect India (OSCG 2026) + others
 [MERGED]  AnthropicBots/hiero-bot-py #140  bounded GitHub API calls: capped pagination,
                                            max 5 concurrent fetches, 5-min stats cache
+[MERGED]  Truxify #16696                   AtomicSwap: enforce 1h-30d lock duration so
+                                           senders can't refund before a claim window
+[OPEN]    hiero-bot-py #150 #151 #152      search-lag fix, fair mentor rotation, access revoke
 [OPEN]    AIproductfactory #53             circuit breaker for remote LLM providers
 
 $ cat ctf.log
