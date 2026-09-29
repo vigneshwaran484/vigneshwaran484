@@ -172,7 +172,7 @@ ML-based detection for text, images, videos and URLs, with confidence scores and
 
 ## `security_and_open_source[]`
 
-```bash
+```text
 $ cat contributions.log   # Open Source Connect India (OSCG 2026) + others
 [MERGED]  AnthropicBots/hiero-bot-py #140  bounded GitHub API calls: capped pagination,
                                            max 5 concurrent fetches, 5-min stats cache
@@ -187,7 +187,7 @@ $ cat ctf.log
 [WRITEUPS]    OverTheWire Bandit 0-20       ssh, encodings, nc/openssl, nmap, SUID
 
 $ cat practice.log
-LeetCode   239 solved (144 E / 79 M / 16 H)   contest rating 1,614 (top 22.6%)
+LeetCode   240 solved (144 E / 80 M / 16 H)   contest rating 1,614 (top 22.6%)
 SkillRack  2,169 programs solved
 ```
 
@@ -197,7 +197,7 @@ SkillRack  2,169 programs solved
 
 ## `hackathons_and_wins[]`
 
-```bash
+```text
 $ cat achievements.log
 [🥇 WINNER]     REC TITANIUM 2026 - Smart City Debug War Room
 [FINALIST]      StartUp TN Tourism Hackathon
@@ -221,16 +221,11 @@ $ cat achievements.log
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshwaran484&show_icons=true&theme=tokyonight&hide_border=true&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran484&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1)
+<a href="https://leetcode.com/u/Vignesh484/"><img src="https://leetcard.jacoblin.cool/Vignesh484?theme=dark&font=JetBrains%20Mono&ext=heatmap&animation=false" alt="LeetCode stats and 52-week heatmap for Vignesh484" /></a>
 
-<br/>
+<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vigneshwaran484&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaran484&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true)
 
 </div>
 
