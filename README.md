@@ -16,7 +16,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwaran-c484/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=codeigniter&logoColor=white)](https://vigneshwaran-c-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=codeigniter&logoColor=white)](https://vigneshwaranc.tech/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vignesh484/)
 [![SkillRack](https://img.shields.io/badge/SkillRack-2C3E50?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=506125&key=894e27d0773b7abdf6759f1cf5588fc459c733bb)
 [![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/vigneshwaran484)
