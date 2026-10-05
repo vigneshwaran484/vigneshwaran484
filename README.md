@@ -173,13 +173,15 @@ ML-based detection for text, images, videos and URLs, with confidence scores and
 ## `security_and_open_source[]`
 
 ```text
-$ cat contributions.log   # Open Source Connect India (OSCG 2026) + others
+$ cat contributions.log   # Open Source Connect India (OSCG 2026): 15 merged PRs
 [MERGED]  AnthropicBots/hiero-bot-py #140  bounded GitHub API calls: capped pagination,
                                            max 5 concurrent fetches, 5-min stats cache
+[MERGED]  AnthropicBots/hiero-bot-py #150  count a just-merged PR despite search-index lag
 [MERGED]  Truxify #16696                   AtomicSwap: enforce 1h-30d lock duration so
                                            senders can't refund before a claim window
-[OPEN]    hiero-bot-py #150 #151 #152      search-lag fix, fair mentor rotation, access revoke
-[OPEN]    AIproductfactory #53             circuit breaker for remote LLM providers
+[MERGED]  Truxify #16935                   lazy OpenAI client so the API boots without a key
+[MERGED]  WorkSphere x11
+[OPEN]    hiero-bot-py #151 #152           fair mentor rotation, access revoke on sync
 
 $ cat ctf.log
 [FULL CLEAR]  Flag Hunt 2026 (team CYBORK)  solved the web set: JWT, localStorage
